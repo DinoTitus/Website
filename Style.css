@@ -1,0 +1,50 @@
+.one {
+    font-size: 40px;
+    font-weight: bolder;
+}
+.two {
+    font-weight: bold;
+    font-size: 40px;
+}
+.three {
+    font-size: 40px;
+    font-weight: bold;
+}
+.Neal {
+    color: rgb(56, 6, 6);
+    font-weight: bold;
+    font-size: 70px;
+}
+.Damon {
+    font-size: 70px;
+    color: rgb(0, 3, 0);
+}
+#Titus {
+    font-size: 30px;
+    color: black;
+}
+#Damon {
+    text-decoration: none;
+}
+#Titus {
+    text-decoration: none;
+}
+table {
+    height: 30px;
+    width: 1500px;
+    border: 100px;
+    border-collapse: collapse;
+    width: 50em, 50em;
+    background-color: white;
+    border-radius: 5px;
+    margin: 50px auto;
+    position: sticky;
+    padding: 50px;
+    left: 700px;
+}
+thead tr {
+    border-bottom: 10px solid gray;
+    border-top: 10px solid gray;
+    border-right: 10px solid gray;
+    border-left: 10px solid gray;
+    }
